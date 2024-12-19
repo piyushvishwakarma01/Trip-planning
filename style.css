@@ -1,0 +1,31 @@
+.box{
+    display:inline-block;
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    background-color:aquamarine
+}
+#box3{
+    position:relative;
+    top:100px;
+    left:50px;
+}
+#box1{
+    position:fixed;
+}
+.wrapper{
+    height:2000px;
+    width:100vw;
+    background-color: brown;
+}
+
+
+
+
+
+
+
+
+ 
+
+
